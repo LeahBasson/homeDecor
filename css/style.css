@@ -22,6 +22,6 @@ img{
 @media (width < 999px)
 {
     img{
-        width: 30rem;
+        width: 18rem;
     }
 }
